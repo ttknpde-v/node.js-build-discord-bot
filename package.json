@@ -1,0 +1,20 @@
+{
+  "name": "js-bot-discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^2.6.6",
+    "save": "^2.9.0",
+    "winston": "^3.10.0"
+  }
+}
